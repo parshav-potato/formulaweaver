@@ -188,14 +188,7 @@ The application supports Google Sheets-like drag operations:
    yarn build && yarn deploy
    ```
 
-#### Option 2: Netlify/Vercel
 
-1. Create an account on [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/)
-2. Connect your GitHub repository
-3. Configure the build settings:
-   - Build command: `npm run build` or `yarn build`
-   - Publish directory: `dist`
-4. Deploy
 
 ## Technical Stack
 
